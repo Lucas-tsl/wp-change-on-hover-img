@@ -53,3 +53,5 @@ Le plugin injecte automatiquement le HTML et CSS nécessaires pour afficher la d
 
 ## 📁 Arborescence
 
+hover-product-image-swap/
+├── hover-product-image-swap.php
